@@ -4,8 +4,8 @@
 !
 !
 !
-||analyticsengine.s3.amazonaws.com
-||affiliationjs.s3.amazonaws.com
-||advertising-api-eu.amazon.com
-||app.getsentry.com
-||widgets.pinterest.com
+||analyticsengine.s3.amazonaws.com^
+||affiliationjs.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||app.getsentry.com^
+||widgets.pinterest.com^
