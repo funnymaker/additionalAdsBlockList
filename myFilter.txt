@@ -9,3 +9,5 @@
 ||advertising-api-eu.amazon.com^
 ||app.getsentry.com^
 ||widgets.pinterest.com^
+||yap.ru^
+||yaplakal.ru^
