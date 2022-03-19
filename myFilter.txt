@@ -11,3 +11,5 @@
 ||widgets.pinterest.com^
 ||yap.ru^
 ||yaplakal.ru^
+||edge-star-mini-shv-01-iev1.facebook.com^
+||dsde448-2.fornex.org^
