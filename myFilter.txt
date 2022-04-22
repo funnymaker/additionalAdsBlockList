@@ -15,3 +15,4 @@
 ||dsde448-2.fornex.org^
 ||6fcea602-dnsotls-ds.metric.gstatic.com^
 ||lv.privacy.network^
+||vortex.data.microsoft.com^
