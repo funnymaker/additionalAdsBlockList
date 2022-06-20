@@ -17,4 +17,3 @@
 ||lv.privacy.network^
 ||vortex.data.microsoft.com^
 ||tp-link.com^
-||web.facebook.com^
