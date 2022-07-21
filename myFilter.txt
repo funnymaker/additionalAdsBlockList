@@ -19,3 +19,6 @@
 ||tp-link.com^
 ||adx-drru.op.hicloud.com^
 ||whoami.akamai.net^
+#reges start with / and end with / (example: /test.*/ )
+/japan.*/
+/.*\.icu/
