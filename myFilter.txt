@@ -3,7 +3,7 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
-!
+! INFO: https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists
 ||analyticsengine.s3.amazonaws.com^
 ||affiliationjs.s3.amazonaws.com^
 ||advertising-api-eu.amazon.com^
@@ -19,6 +19,6 @@
 ||tp-link.com^
 ||adx-drru.op.hicloud.com^
 ||whoami.akamai.net^
-#reges start with / and end with / (example: /test.*/ )
+#regex start with / and end with / (example: /test.*/ )
 /japan.*/
 /.*\.icu/
