@@ -20,7 +20,7 @@
 ||tp-link.com^
 ||adx-drru.op.hicloud.com^
 ||whoami.akamai.net^
-||yastatic.net^
+#||yastatic.net^
 #regex start with / and end with / (example: /test.*/ )
 /japan.*/
 /.*\.icu/
