@@ -17,7 +17,7 @@
 ||6fcea602-dnsotls-ds.metric.gstatic.com^
 ||lv.privacy.network^
 ||vortex.data.microsoft.com^
-||tp-link.com^
+#||tp-link.com^
 ||adx-drru.op.hicloud.com^
 ||whoami.akamai.net^
 
