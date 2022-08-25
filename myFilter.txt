@@ -24,3 +24,10 @@
 #regex start with / and end with / (example: /test.*/ )
 /japan.*/
 /.*\.icu/
+
+
+||dbankcloud.com^
+||dbankcloud.ru^
+
+||dbankcdn.com^
+||dbankcdn.ru^
