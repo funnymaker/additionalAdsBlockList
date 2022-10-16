@@ -20,11 +20,12 @@
 #||tp-link.com^
 ||adx-drru.op.hicloud.com^
 ||whoami.akamai.net^
-||bing.com^
 #regex start with / and end with / (example: /test.*/ )
 /japan.*/
 /.*\.icu/
 
+||bing.com^
+||edgedl.me.gvt1.com^
 
 ||dbankcloud.com^
 ||dbankcloud.ru^
