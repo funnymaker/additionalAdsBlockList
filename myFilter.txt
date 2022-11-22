@@ -27,8 +27,3 @@
 ||bing.com^
 ||edgedl.me.gvt1.com^
 ||checkappexec.microsoft.com^
-||dbankcloud.com^
-||dbankcloud.ru^
-
-||dbankcdn.com^
-||dbankcdn.ru^
