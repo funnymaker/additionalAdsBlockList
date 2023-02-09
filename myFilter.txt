@@ -33,3 +33,5 @@
 ||appimg.dbankcdn.com^
 ||*.dbankcloud.ru^
 ||*dbankcdn.com*^
+||dnkeeper.platform.dbankcloud.cn^
+||searchnews-drru.dt.dbankcloud.com^
