@@ -27,3 +27,4 @@
 ||bing.com^
 ||edgedl.me.gvt1.com^
 ||checkappexec.microsoft.com^
+||adx-drru.op.dbankcloud.ru^
