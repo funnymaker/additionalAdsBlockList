@@ -27,7 +27,9 @@
 ||bing.com^
 ||edgedl.me.gvt1.com^
 ||checkappexec.microsoft.com^
+#mobile
 ||adx-drru.op.dbankcloud.ru^
 ||events-drru.op.dbankcloud.ru^
 ||appimg.dbankcdn.com^
 ||*.dbankcloud.ru^
+||*dbankcdn.com*^
