@@ -40,6 +40,6 @@
 #test
 #||tracking.ott.yandex.net^
 ||timing.ott.yandex.net^
-||strm.yandex.ru^
+#||strm.yandex.ru^
 ||startup.mobile.yandex.net^
 ||dr.yandex.net^
