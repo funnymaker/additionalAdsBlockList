@@ -41,4 +41,4 @@
 ||*.ott.yandex.net^
 ||strm.yandex.ru^
 ||startup.mobile.yandex.net^
-||dr.yandex.net
+||dr.yandex.net^
