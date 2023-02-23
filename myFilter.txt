@@ -38,7 +38,7 @@
 ||searchnews-drru.dt.dbankcloud.com^
 
 #test
-||tracking.ott.yandex.net^
+#||tracking.ott.yandex.net^
 ||timing.ott.yandex.net^
 ||strm.yandex.ru^
 ||startup.mobile.yandex.net^
