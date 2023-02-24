@@ -40,3 +40,4 @@
 #test
 ||startup.mobile.yandex.net^
 ||dr.yandex.net^
+||ad-drru.dt.dbankcloud.com^
