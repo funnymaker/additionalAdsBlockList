@@ -23,7 +23,7 @@
 #regex start with / and end with / (example: /test.*/ )
 /japan.*/
 /.*\.icu/
-
+||appmetrica.yandex.ru^
 ||bing.com^
 ||edgedl.me.gvt1.com^
 ||checkappexec.microsoft.com^
