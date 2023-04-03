@@ -41,3 +41,19 @@
 ||startup.mobile.yandex.net^
 ||dr.yandex.net^
 ||ad-drru.dt.dbankcloud.com^
+
+#yandex additional
+||extmaps-api.yandex.net^
+||advertising.yandex.ru^
+
+#additional amazon
+||adtago.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+
+#bug tracks
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+
+#hz OEMs / mobile
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
