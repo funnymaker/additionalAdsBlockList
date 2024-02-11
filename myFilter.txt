@@ -59,3 +59,4 @@
 ||bdapi-in-ads.realmemobile.com^
 
 ||adwile.com^
+||adriver-our-dsp.adriver.ru^
