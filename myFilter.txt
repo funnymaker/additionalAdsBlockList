@@ -38,6 +38,7 @@
 ||searchnews-drru.dt.dbankcloud.com^
 ||metrics.dt.dbankcloud.cn^
 ||cloudrom-global.emui.dbankcloud.com^
+||dnkeeper.platform.dbankcloud.com^
 
 #test
 ||startup.mobile.yandex.net^
