@@ -36,6 +36,8 @@
 ||*dbankcdn.ru*^
 ||dnkeeper.platform.dbankcloud.cn^
 ||searchnews-drru.dt.dbankcloud.com^
+||metrics.dt.dbankcloud.cn^
+||cloudrom-global.emui.dbankcloud.com^
 
 #test
 ||startup.mobile.yandex.net^
